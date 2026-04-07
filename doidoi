@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Game Hub</title>
+</head>
+<body>
+
+<h1>🎮 My Game Hub</h1>
+
+<p>Welcome! Click a game below:</p>
+
+<ul>
+  <li><a href="#">Minecraft (Eaglercraft)</a></li>
+  <li><a href="#">Fortzone</a></li>
+  <li><a href="#">Dashmetry</a></li>
+</ul>
+
+</body>
+</html>
